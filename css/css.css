@@ -6,6 +6,7 @@ h1{
 }
 
 .background-img{
+  font-family: "Mukta", "Helvetica Neue";
 
   background-image:url(mountain2.jpeg);
   background-repeat: no-repeat;
@@ -43,7 +44,6 @@ padding:0px;
     padding:1%;
   }
   img{overflow: hidden;
-
   }
 .card-img-top{
   -webkit-filter: grayscale(10%);
@@ -55,4 +55,12 @@ padding:0px;
   -webkit-filter: grayscale(0);
 	filter: grayscale(0);
 
+}
+.navbar-brand{
+  font-size: 1.5rem;
+  margin-left:13%;
+}
+.icon{
+  color:#dee3e2;
+  margin:0 6px;
 }
