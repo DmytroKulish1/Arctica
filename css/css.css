@@ -1,0 +1,58 @@
+body{
+  margin:0%;
+}
+h1{
+  margin:0px;
+}
+
+.background-img{
+
+  background-image:url(mountain2.jpeg);
+  background-repeat: no-repeat;
+   background-size: cover;
+    background-attachment: fixed;
+opacity: 80%;
+transition: 5s;
+filter: blur(1px);
+margin:0px;
+padding: 0px;
+display: fixed;
+}
+.background-img:hover{
+opacity: 99%;
+transition: 2s;
+filter: blur(0px);
+margin:0px;
+padding:0px;
+}
+
+.container-1{
+
+  width:80%;
+    margin-left:auto;
+    margin-right: auto;
+  padding-top:10%;}
+  .row{
+    padding:3%;
+    margin:0px;
+  }
+  .card-text{
+    text-align: center;
+  }
+  .col{
+    padding:1%;
+  }
+  img{overflow: hidden;
+
+  }
+.card-img-top{
+  -webkit-filter: grayscale(10%);
+  	filter: grayscale(50%);
+  	-webkit-transition: .3s ease-in-out;
+  	transition: .3s ease-in-out;
+  }
+  .card-img-top:hover{
+  -webkit-filter: grayscale(0);
+	filter: grayscale(0);
+
+}
