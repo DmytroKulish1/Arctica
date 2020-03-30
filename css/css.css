@@ -27,25 +27,19 @@ margin:0px;
 padding:0px;
 }
 
-.container-1{
+.container-fluid{
+    width:90%;
+  padding-left: 10%;
+  padding-top:10%;
+}
 
-  width:80%;
-    margin-left:auto;
-    margin-right: auto;
-  padding-top:10%;}
-  .row{
-    padding:3%;
-    margin:0px;
-  }
   .card-text{
     text-align: center;
   }
-  .col{
-    padding:1%;
-  }
-  img{overflow: hidden;
-  }
+
+
 .card-img-top{
+
   -webkit-filter: grayscale(10%);
   	filter: grayscale(50%);
   	-webkit-transition: .3s ease-in-out;
@@ -63,4 +57,22 @@ padding:0px;
 .icon{
   color:#dee3e2;
   margin:0 6px;
+}
+
+}
+
+#card{
+
+}
+.col{
+  padding:3%;
+}
+.card-body{
+  margin-right:25px;
+}
+.col-8{
+  margin-top:4.4%;
+  margin-left:8%;
+
+
 }

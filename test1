@@ -1,0 +1,17 @@
+<div class="col">
+  <div class="semicontainer2">
+    <div class="row">
+
+      <div class="col">
+
+
+        <div id="card">
+          <div class="card" style="width:100%;">
+            <img src="https://f4.bcbits.com/img/a4097927631_16.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <p class="card-text">Fuji</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
